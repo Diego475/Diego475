@@ -8,6 +8,8 @@ I am Sergey, Fullstack developer from <img src="https://upload.wikimedia.org/wik
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-254bdd?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=JavaScript&logoColor=f7df1e" />
+  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-1a71b5?style=flat-square&logo=jQuery&logoColor=white" />
   <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-533b78?style=flat-square&logo=Bootstrap&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-3fb27f?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
