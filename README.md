@@ -23,3 +23,8 @@
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-efb80f?style=flat-square&logo=Linux&logoColor=black" />
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009137?style=flat-square&logo=Nginx&logoColor=white" />
 </p>
+
+<h3 align="center">My github statistics (small, but there)</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Diego475&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" height="200"/>
+</p>
