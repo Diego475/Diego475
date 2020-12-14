@@ -1,4 +1,4 @@
-# <img src="https://i.pinimg.com/originals/9f/9a/df/9f9adfa6f52bb13d1656fcb9f4c8ac1a.gif" width="30"/> Hello, good to see you here
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hello, good to see you here
 
 <h3 align="center">Hello, welcome to my page!</h3>
 <h3 align="center"> I am Sergey, Fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg" width="25"/> Almaty, Kazakhstan</h3>
