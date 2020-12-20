@@ -2,6 +2,16 @@
 
 <h3 align="center">Hello, welcome to my page!</h3>
 <h3 align="center"> I am Sergey, Fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg" width="25"/> Almaty, Kazakhstan</h3>
+<br/>
+<br/>
+<h3 align="center">Frequent tools<h3>
+<br>
+<p align="center">
+  <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" alt="Linux" width="50" height="50">
+  <img src="https://devicon.dev/devicon.git/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50">
+  <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50">
+  <img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" alt="PHP" width="50" height="50">
+</p>
 
 ### The tools I know
 
