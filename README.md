@@ -6,14 +6,14 @@
 <br/>
 <h3 align="center">Frequent tools<h3>
 <br>
-<h2 align="center">LEMP</h2>
+<h3 align="center">LEMP</h3>
 <p align="center">
   <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" alt="Linux" width="50" height="50">
   <img src="https://devicon.dev/devicon.git/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50">
   <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50">
   <img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" alt="PHP" width="50" height="50">
 </p>
-<h2 align="center">MEVN</h2>
+<h3 align="center">MEVN</h3>
 <p align="center">
   <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50">
   <img src="https://devicon.dev/devicon.git/icons/express/express-original.svg" alt="Express" width="50" height="50">
