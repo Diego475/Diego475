@@ -8,17 +8,18 @@
 <br>
 <h3 align="center">LEMP</h3>
 <p align="center">
-  <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" alt="Linux" width="50" height="50">
-  <img src="https://devicon.dev/devicon.git/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50">
-  <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50">
-  <img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" alt="PHP" width="50" height="50">
+  
+  <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Linux" width="50" height="50">
+  <img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" alt="Nginx" width="50" height="50">
+  <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" alt="MySQL" width="50" height="50">
+  <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" width="50" height="50">
 </p>
 <h3 align="center">MEVN</h3>
 <p align="center">
-  <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50">
-  <img src="https://devicon.dev/devicon.git/icons/express/express-original.svg" alt="Express" width="50" height="50">
-  <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="Vue JS" width="50" height="50">
-  <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="Node JS" width="50" height="50">
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="50" height="50">
+  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express" width="50" height="50">
+  <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="Vue JS" width="50" height="50">
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node JS" width="50" height="50">
 </p>
 
 ### The tools I know
