@@ -44,16 +44,16 @@
 
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego475">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego475&theme=chartreuse-dark">
 </p>
 
 <h3 align="center">GitHub Streak Stats</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diego475" height="200">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diego475&theme=chartreuse-dark" height="200">
 </p>
 <br/>
 <h3 align="center">My github statistics (small, but there)</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diego475&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Diego475&theme=chartreuse-dark&show_icons=true&include_all_commits=true&hide_border=true" height="200"/>
 </p>
 
