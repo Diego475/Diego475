@@ -4,23 +4,7 @@
 <h3 align="center"> I am Sergey, Fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg" width="25"/> Almaty, Kazakhstan</h3>
 <br/>
 <br/>
-<h3 align="center">Frequent tools<h3>
-<br>
-<h3 align="center">LEMP</h3>
-<p align="center">
-  
-  <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Linux" width="50" height="50">
-  <img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" alt="Nginx" width="50" height="50">
-  <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" alt="MySQL" width="50" height="50">
-  <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" width="50" height="50">
-</p>
-<h3 align="center">MEVN</h3>
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="50" height="50">
-  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express" width="50" height="50">
-  <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="Vue JS" width="50" height="50">
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node JS" width="50" height="50">
-</p>
+
 
 ### The tools I know
 
