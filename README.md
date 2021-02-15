@@ -6,7 +6,11 @@
 <br/>
 
 <h3 align="center">Contacts</h3>
-
+<div align="center">
+<code><a href="https://vk.com/shipulinsergey"><img alt="VK" title="VK" src="https://camo.githubusercontent.com/e5bc054e61a534500fa83362492c856b92496a713f8dfe37c39dbc8874a41b9f/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f766b2d312e737667" width="50" height="50" /></a></code>
+  <code><a href="https://t.me/Diego475"><img alt="Telegram" title="Telegram" src="https://camo.githubusercontent.com/db4a5d91035bf8a3abe2342c14d1147e23c5626326d17097aeec4c1e10e522d1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f74656c656772616d2e737667" width="50" height="50" /></a></code>
+  <code><a href="mailto:dmklasfmalkw@gmail.com">  <img alt="Gmail" title="Gmail" src="https://camo.githubusercontent.com/ca2a7f64bc002de89fbbaa7e64cf99212eb4284cd1dc914bd2436dab6cdb536c/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f676d61696c2d69636f6e2d322e737667" width="50" height="50" /></a></code>
+</div>
 
 # The tools I know
 
